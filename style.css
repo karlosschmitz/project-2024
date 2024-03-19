@@ -30,3 +30,7 @@
 .flamengo-imagem{
     width: 320px;
     height: 313px;
+}
+.flamengo{
+    background-image: linear-gradient(red, white);
+}
