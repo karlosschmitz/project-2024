@@ -32,5 +32,5 @@
     height: 313px;
 }
 .flamengo{
-    background-image: linear-gradient(rgba(255, 0, 34, 0.767), white);
+    background-image: linear-gradient(red, white);
 }
