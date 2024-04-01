@@ -33,4 +33,6 @@
 }
 .flamengo{
     background-image: linear-gradient(rgb(255, 0, 43), rgba(255, 255, 255, 0));
+    color:white;
+    display:flex;
 }
