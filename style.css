@@ -53,3 +53,8 @@ body{
 .jogadores-imagem{
     width: 120px;
 }
+
+.jogadores-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
